@@ -143,9 +143,6 @@ I am continuously expanding my portfolio with advanced machine learning, deep le
 ## Github Stars
 If you find my projects helpful, consider starring ⭐ this repository to show your support!
 
-## License
-This repository is licensed under the MIT License. See the <LICENSE> file for details.
-
 ## Feedback & Contact
 I welcome feedback, suggestions, and collaboration opportunities. Feel free to reach out via: Email: swathykrishnamany01@gmail.com
 If you have any suggestions or want to collaborate, feel free to reach out! 🚀
