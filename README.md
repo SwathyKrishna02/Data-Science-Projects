@@ -134,6 +134,11 @@ Welcome to my Data Science Projects Repository! This repository is a collection 
 * **Technologies** -
 * **Results** -
 
+### 27. Image Classifier
+* **Description** -
+* **Technologies** -
+* **Results** -
+
 
 
 
